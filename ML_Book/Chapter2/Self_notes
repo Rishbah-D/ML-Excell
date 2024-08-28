@@ -1,0 +1,3 @@
+To download a csv data from github... just go 
+url="".... df = pd.read_csv(url)....df.to_csv('name.csv',index=False)
+
